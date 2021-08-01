@@ -13,10 +13,10 @@
 
 ### Roadmap
 1. Syntax and Semantics:
-    * [ ] Data Types (The 8 Java Primitive Types)
-    * [ ] Variables (The var keyword)
-    * [ ] Type Conversion & Casting
-    * [ ] Automatic Type Promotion
+    * [X] Data Types (The 8 Java Primitive Types)
+    * [X] Variables (The var keyword)
+    * [X] Type Conversion & Casting (explicit)
+    * [X] Automatic Type Promotion (implicit)
     * [ ] Arrays
     * [ ] Operators in Java (Arithmetic, Bitwise, Relational, Boolean Logical, Assignment, ? Operator, Operator Precedence)
     * [ ] Control Statements in Java (If, If-Else, If-Else-If, Switch (new and old))
