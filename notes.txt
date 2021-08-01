@@ -1,0 +1,16 @@
+JAVA - RULEs
+1. PURE OBJECT ORIENTED (Class is main thing in Java)
+2. Class Name = File Name {MANDETORY}
+
+3. TOPIc Specific Rules:
+    CLASSES : 
+        >> All members inside the class are private to the class
+        >> Steps
+            1. Make Class
+            2. Create Object (5)
+            3. Call object's functions
+        >> Static (What ? Why)
+    
+    VARIABLES :
+        >> declare -> use
+        >> [access-modifiers] [data-type] [variable-name] = [value];
